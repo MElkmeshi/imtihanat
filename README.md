@@ -2,6 +2,9 @@
 
 **imtihanat** is a GitHub repository that provides an API for a messenger bot to scrape the official Libyan website for 12th-grade school grades. It uses Puppeteer, a Node.js library, to perform web scraping and retrieve the grades based on a given seat number. The API returns a screenshot of the grades as the output.
 
+## Example
+<img width="470" alt="359237705_973929690478299_4780344238801903803_n_276784498293052" src="https://github.com/MElkmeshi/imtihanat/assets/95718825/dd9861be-b7a5-4e09-9783-8fce62359a7f">
+
 ## Prerequisites
 
 Before running the API, make sure you have the following software installed:
